@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Vim
+.caesar.py.un~
+.main.py.un~
+caesar.py~
+main.py~
+..gitignore.un~
+.gitignore~
